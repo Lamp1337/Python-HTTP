@@ -16,7 +16,7 @@
 - ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 - **Download the zip first.**
 - **Open the `http.py` and wait 1-2 seconds.**
-- **You will see __pycache_ folder**
+- **You will see `__pycache__` folder**
 - **open `__pycache__` folder**
 - **open the `CPython` File**
 
